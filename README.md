@@ -1,2 +1,5 @@
-# AOC_Helter_Rafael_Tiago_UFRR_LabCircuito
-Laboratório de circuitos.
+# Laboratório de Circuitos - Codificação e Simulações
+
+Universidade Federal de Roraima (UFRR)
+Departamento de Ciência da Computação (DCC)
+Disciplina:** Arquitetura e Organização de Computadores
