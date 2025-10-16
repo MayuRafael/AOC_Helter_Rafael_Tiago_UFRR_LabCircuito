@@ -10,3 +10,10 @@ Este repositório contém todos os artefatos desenvolvidos para o trabalho prát
 O objetivo principal foi projetar, implementar e simular uma série de componentes de circuitos digitais fundamentais na arquitetura de computadores.
 
 Todos os circuitos foram construídos e testados utilizando o simulador digital **Logisim**.
+
+Para cada componente, o projeto inclui:
+- [cite_start]**(i)** A descrição da sua funcionalidade, pinos e lógica interna. [cite: 8]
+- [cite_start]**(ii)** A imagem do circuito integrado implementado no Logisim. [cite: 9]
+- [cite_start]**(iii)** Os testes de unidade ou análise de tabela verdade para validação. [cite: 6, 9]
+- [cite_start]**(iv)** A descrição detalhada dos testes, com entradas e saídas correspondentes. [cite: 10]
+
